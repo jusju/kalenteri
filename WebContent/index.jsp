@@ -34,6 +34,7 @@
    		<td>
    		
   		</td>
+  		<td>
 			<input type="submit" value="Kirjaudu"/>
   	  
   		</td>
