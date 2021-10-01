@@ -27,7 +27,7 @@
   			Salasana:  
   		</td>
   		<td>
-  		  	<input type="text"  name="salasana">
+  		  	<input type="password"  name="salasana">
    		</td>
 	</tr>
 	<tr>
